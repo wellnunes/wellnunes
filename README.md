@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi! 👨‍💻</h2>
 
-:department_store: Working on <a href="http://www.vicentelemos.com.br/">Vicente Lemos</a> as Software Developer.
+:department_store: Working as Back-end Developer.
 <br />
 🐍 Currently using mainly Python and Django.
 <br />
